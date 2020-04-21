@@ -1,16 +1,6 @@
-引导页![index3](D:\web前端\正式课\vue\vue_project2.1\VueProject\image\index3.jpg![advert1](D:\web前端\正式课\vue\vue_project2.1\VueProject\image\advert1.jpg)
-
-首页![index1](D:\web前端\正式课\vue\vue_project2.1\VueProject\image\index1.jpg)![index2](D:\web前端\正式课\vue\vue_project2.1\VueProject\image\index2.jpg)
-
-
-
-个人中心
-
-![index4](D:\web前端\正式课\vue\vue_project2.1\VueProject\image\index4.jpg)购物车
-
-![index5](D:\web前端\正式课\vue\vue_project2.1\VueProject\image\index5.jpg)详情页
-
-![index6](D:\web前端\正式课\vue\vue_project2.1\VueProject\image\index6.jpg)
+** 安装依赖包 $npm install **(backend_code也要安装依赖包)
+** 运行backend_code代码 $node index.js **
+** 运行源码 $npm run serve **
 
 **技术栈：**Vue全家桶+Vant-UI框架
 

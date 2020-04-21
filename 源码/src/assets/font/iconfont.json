@@ -1,0 +1,177 @@
+{
+  "id": "1679380",
+  "name": "vue项目muji",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6684308",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "9306312",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "508273",
+      "name": "运输配送",
+      "font_class": "yunshupeisong",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "2849723",
+      "name": "优惠",
+      "font_class": "youhui",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "8774063",
+      "name": "支付 ",
+      "font_class": "zhifu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "2170609",
+      "name": "优惠-2",
+      "font_class": "youhui-",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13374949",
+      "name": "宇航员",
+      "font_class": "yuhangyuan",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    },
+    {
+      "icon_id": "13374959",
+      "name": "行星",
+      "font_class": "hangxing",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "3875047",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3187284",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "258549",
+      "name": "指数上升",
+      "font_class": "tubiao03",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "258550",
+      "name": "指数下降",
+      "font_class": "tubiao04",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "3841005",
+      "name": "上升",
+      "font_class": "shangsheng",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "3841013",
+      "name": "下降",
+      "font_class": "xiajiang",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "6085785",
+      "name": "皇冠",
+      "font_class": "huangguan",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "11390157",
+      "name": "皇冠-01",
+      "font_class": "huangguan-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "12635084",
+      "name": "皇冠",
+      "font_class": "huangguan1",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "8106211",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "12906226",
+      "name": "学籍管理",
+      "font_class": "xuejiguanli",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "11372640",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e8ac",
+      "unicode_decimal": 59564
+    },
+    {
+      "icon_id": "11474203",
+      "name": "auto",
+      "font_class": "auto",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "11474219",
+      "name": "all",
+      "font_class": "all",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "11474220",
+      "name": "bussiness-man",
+      "font_class": "bussiness-man",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "11474234",
+      "name": "component",
+      "font_class": "component",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    }
+  ]
+}
